@@ -13,7 +13,7 @@ Perform a full Exploratory Data Analysis (EDA) on the classic **Iris Dataset** u
 ## 📂 Project Structure
 
 ```
-iris-eda/
+Iris-data-analysis/
 │
 ├── Iris.csv                    # Dataset (150 rows × 6 columns)
 ├── iris_eda.ipynb              # Main Jupyter Notebook with full EDA
@@ -72,8 +72,8 @@ iris-eda/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/iris-eda-task3.git
-cd iris-eda-task3
+git clone https://github.com/sairamkollur/Iris-data-analysis.git
+cd Iris-data-analysis
 ```
 
 ### 2. Create and activate a virtual environment
